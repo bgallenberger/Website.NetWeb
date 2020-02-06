@@ -4,6 +4,7 @@
 
     $('.code').on('click', function (e) {
         e.preventDefault();
+
         //change values in box
         $('#product').html($(this).data('product'));
         $('#code').html($(this).data('code'));

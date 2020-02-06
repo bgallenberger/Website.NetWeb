@@ -26,3 +26,17 @@ C:\Users\brian\source\repos\Website.NetWeb-master\Website.NetWeb\obj\Debug\netco
 C:\Users\brian\source\repos\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.RazorTargetAssemblyInfo.cache
 C:\Users\brian\source\repos\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.dll
 C:\Users\brian\source\repos\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.pdb
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\bin\Debug\netcoreapp2.1\Website.NetWeb.deps.json
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\bin\Debug\netcoreapp2.1\Website.NetWeb.runtimeconfig.json
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\bin\Debug\netcoreapp2.1\Website.NetWeb.runtimeconfig.dev.json
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\bin\Debug\netcoreapp2.1\Website.NetWeb.dll
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\bin\Debug\netcoreapp2.1\Website.NetWeb.pdb
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.csprojAssemblyReference.cache
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.RazorAssemblyInfo.cache
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.RazorAssemblyInfo.cs
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.AssemblyInfoInputs.cache
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.AssemblyInfo.cs
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.dll
+C:\Users\bitstudent\Desktop\Website.NetWeb-master\Website.NetWeb\obj\Debug\netcoreapp2.1\Website.NetWeb.pdb
